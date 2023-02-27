@@ -1,0 +1,40 @@
+.contact tr{
+    height: 7rem;
+}
+
+.contact th{
+    width: 150px;
+    text-align: right;
+
+}
+.contact td{
+    width: 480px;
+    border-left: solid 10px transparent;
+}
+
+.form_size{
+    width: 480px;
+    
+}
+
+.contact{
+    border-collapse: collapse;
+}
+
+
+
+.botton{
+    background-color: #008b8b;
+    color: #ffff;
+    font-size: 3rem ;
+    padding: 10px;
+    
+}
+
+.botton:hover{
+    opacity: 0.6;
+}
+
+.send{
+    text-align: center;
+}
